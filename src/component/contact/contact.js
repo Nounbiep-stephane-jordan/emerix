@@ -5,7 +5,7 @@ const Contact = () => {
     <section className="contact-section grid">
       <div className="left">
         <h2>
-          Comment vous <span>aider ?</span>
+          Comment vous<span> aider ?</span>
         </h2>
         <p>
           <i className="fa-solid fa-location-arrow"></i>{" "}
