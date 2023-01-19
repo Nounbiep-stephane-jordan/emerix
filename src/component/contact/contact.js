@@ -22,7 +22,7 @@ const Contact = () => {
         <p>
           <i className="fa-solid fa-envelope"></i> support@emerixcompagnie.fr
         </p>
-        <h4>Planifier un rendez-vous téléphonique</h4>
+        <h4>Planifier un rendez-vous téléphonique </h4>
         <button className="btn">
           <i className="fa-solid fa-calendar"></i> Prendre rendez-vous
         </button>
