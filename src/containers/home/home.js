@@ -18,8 +18,7 @@ const Home = () => {
       >
         <div className="left c_flex">
           <h2>
-            Contaxium, spécialiste de l’accueil externalisé{" "}
-            <span>sur mesure</span>
+            Emerix, spécialiste de l’accueil externalisé <span>sur mesure</span>
           </h2>
           <h3>Opérationnel 24/7</h3>
           <div className="btn-box ">
